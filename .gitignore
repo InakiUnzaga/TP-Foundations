@@ -1,0 +1,41 @@
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.log
+
+# Entornos virtuales Python
+venv/
+.venv/
+env/
+.env/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de compilación
+dist/
+build/
+out/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+*.bak
+*.old
+
+# Archivos de backup
+*~
+*.bak
+
