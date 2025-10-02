@@ -1,7 +1,8 @@
 # Dataset elegido: International Football Goalscorers
 
 ## Fuente
-"https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=goalscorers.csv"
+"https://raw.githubusercontent.com/martj42/international_results/refs/heads/master/goalscorers.csv"
+
 
 
 ## Descripción
