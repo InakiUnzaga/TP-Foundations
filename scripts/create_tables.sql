@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS goalscorers;
+
 CREATE TABLE goalscorers (
 	id SERIAL PRIMARY KEY,
 	date DATE NOT NULL,
