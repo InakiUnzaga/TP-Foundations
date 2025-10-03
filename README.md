@@ -21,6 +21,16 @@ python -m venv venv
 # Instalar dependencias
 pip install -r requirements.txt
 ```
+```Ubuntu
+# Crear entorno virtual
+python3 -m venv venv
+
+# Activar entorno virtual en Windows
+source venv/bin/activate
+
+# Instalar dependencias
+pip install -r requirements.txt
+```
 
 ### 2. Configuración de Docker
 1. Asegúrate de que Docker Desktop esté instalado y en ejecución
@@ -33,7 +43,8 @@ Para ejecutar todo el proceso automáticamente:
 .\run_all.ps1
 
 # En Linux
-.\run_all.sh
+chmod +x run_all.sh (Le damos permiso de ejecución)
+./run_all.sh
 ```
 
 Este script estará realizando lo siguiente: 
