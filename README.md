@@ -12,6 +12,7 @@ Este proyecto implementa un sistema de análisis de datos por goles en partidos 
 
 ### 1. Preparación del Entorno Virtual
 ```powershell
+Powershell
 # Crear entorno virtual
 python -m venv venv
 
@@ -22,6 +23,7 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 ```Ubuntu
+Ubuntu
 # Crear entorno virtual
 python3 -m venv venv
 
@@ -39,10 +41,12 @@ pip install -r requirements.txt
 ### 3. Ejecución End-to-End
 Para ejecutar todo el proceso automáticamente:
 ```powershell
-# En Windows PowerShell:
+PowerShell
 .\run_all.ps1
+```
 
-# En Linux
+```ubuntu
+Ubuntu
 chmod +x run_all.sh (Le damos permiso de ejecución)
 ./run_all.sh
 ```
