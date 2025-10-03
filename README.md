@@ -27,7 +27,7 @@ Ubuntu
 # Crear entorno virtual
 python3 -m venv venv
 
-# Activar entorno virtual en Windows
+# Activar entorno virtual
 source venv/bin/activate
 
 # Instalar dependencias
